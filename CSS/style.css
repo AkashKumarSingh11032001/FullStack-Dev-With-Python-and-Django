@@ -1,5 +1,15 @@
+body{
+    background-image: url(https://image.freepik.com/free-vector/hand-painted-watercolor-nature-background_23-2148941599.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: darkgray; */
+}
+
 h1 {
-    color:aqua;
+    border-color: beige;
+    border-width: 10px;
+    border-style: double;
+    color:darkgoldenrod;
 }
 p {
     color:blue;
@@ -7,4 +17,11 @@ p {
 }
 li {
     color:brown;
+}
+
+#para1 {
+    color: blue;
+}
+#para2 {
+    color : green;
 }
