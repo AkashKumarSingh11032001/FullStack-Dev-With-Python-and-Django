@@ -54,3 +54,6 @@ h1:hover{
     border: 5px dotted black;
 }
 
+a:visited{
+    color: red;
+}
