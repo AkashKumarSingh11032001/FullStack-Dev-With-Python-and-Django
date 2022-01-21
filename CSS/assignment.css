@@ -30,3 +30,7 @@ input{
 #special{
     border: 10px solid orange;
 }
+
+input[type="text"]{
+    background-color: green;
+}
