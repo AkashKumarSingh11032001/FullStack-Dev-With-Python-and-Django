@@ -1,3 +1,8 @@
 body {
     font-family: "Sofia", sans-serif;
+    background-color: rgb(12, 114, 83);
+    color: white;
+    text-align: center;
+    border: 50px solid black;
+    margin: 0;
 }
